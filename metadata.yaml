@@ -1,0 +1,44 @@
+_repo: Loppiaisaatto-eli-Miten-mielitte_27708
+_version: 0.1.0
+alternative_title: Twelfth night. Finnish
+contributor:
+  translator:
+    agent_name: Cajander, Paavo Emil
+    birthdate: 1846
+    deathdate: 1913
+    gutenberg_agent_id: '4531'
+    url: http://www.gutenberg.org/2009/agents/4531
+    wikipedia: http://fi.wikipedia.org/wiki/Paavo_Cajander
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2009-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27708'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Twins -- Drama'
+- !lcsh 'Mistaken identity -- Drama'
+- !lcsh 'Brothers and sisters -- Drama'
+- !lcsh 'Illyria -- Drama'
+- !lcsh 'Shipwreck survival -- Drama'
+- !lcc 'PR'
+- !lcsh 'Comedies'
+title: Loppiaisaatto eli Miten mielitte
+url: http://www.gutenberg.org/ebooks/27708
